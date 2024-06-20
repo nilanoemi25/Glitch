@@ -1,3 +1,1 @@
-# Get Started!
-
-Add files and start typing 🎉
+# Playlist 0.2.0
