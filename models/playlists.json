@@ -1,0 +1,9 @@
+{
+  "file": "./models/playlists.json",
+  "playlists": [
+    {
+      "title": "ok",
+      "_id": "d72e4ecb-3209-479b-96a2-8226d43a8507"
+    }
+  ]
+}

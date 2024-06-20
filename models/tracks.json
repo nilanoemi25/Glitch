@@ -1,0 +1,12 @@
+{
+  "file": "./models/tracks.json",
+  "tracks": [
+    {
+      "title": "ok",
+      "artist": "ok",
+      "duration": null,
+      "_id": "74e02da0-d9ee-438f-86c0-d86ebd444f7e",
+      "playlistid": "d72e4ecb-3209-479b-96a2-8226d43a8507"
+    }
+  ]
+}
