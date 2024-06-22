@@ -7,6 +7,27 @@
       "duration": null,
       "_id": "74e02da0-d9ee-438f-86c0-d86ebd444f7e",
       "playlistid": "d72e4ecb-3209-479b-96a2-8226d43a8507"
+    },
+    {
+      "title": "Halo ",
+      "artist": "Beyonce",
+      "duration": 120,
+      "_id": "d636a806-1c95-4b95-a103-0a37f9e8adfe",
+      "playlistid": "ff085b0f-f70b-4f48-917c-81d55c3f2523"
+    },
+    {
+      "title": "If I was a boy ",
+      "artist": "Beyonce",
+      "duration": 115,
+      "_id": "4732a498-ab39-4795-b146-2860fedb9f01",
+      "playlistid": "ff085b0f-f70b-4f48-917c-81d55c3f2523"
+    },
+    {
+      "title": "Not Afraid ",
+      "artist": "Eminem ",
+      "duration": 180,
+      "_id": "e366f66a-0fc8-48b7-bfd8-150230e1ff4d",
+      "playlistid": "d436e3f7-a664-4a56-a860-40518b4147ef"
     }
   ]
 }
