@@ -2,12 +2,12 @@
   "file": "./models/playlists.json",
   "playlists": [
     {
-      "title": "ok",
-      "_id": "04d1f42b-27a3-40ff-832d-6fb511195e43"
+      "title": "M1",
+      "_id": "8b74e58d-e7f1-4813-bcd0-e5059f357e8a"
     },
     {
-      "title": "",
-      "_id": "eb2cb10d-cc37-4f84-b675-8eabbb622457"
+      "title": "M2",
+      "_id": "f17fcc6d-3a84-4073-9495-fc35406c3805"
     }
   ]
 }
